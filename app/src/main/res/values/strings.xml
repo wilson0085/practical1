@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">practical1</string>
+    <string name="rollDiceInstruction">Roll Dice!</string>
+    <string name="resultNumberTxt"></string>
+    <string name="rollbtnTxt">Roll</string>
+</resources>
